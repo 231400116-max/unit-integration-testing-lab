@@ -1,1 +1,21 @@
-[]
+[
+  "test_integration.py::test_transfer_and_interest_workflow",
+  "test_integration.py::test_transfer_insufficient_balance",
+  "test_integration.py::test_transfer_invalid_amount",
+  "test_integration.py::test_transfer_success",
+  "test_unit.py::test_calculate_interest_invalid_balance",
+  "test_unit.py::test_calculate_interest_invalid_rate",
+  "test_unit.py::test_calculate_interest_valid",
+  "test_unit.py::test_calculate_interest_zero_years",
+  "test_unit.py::test_deposit_boundary",
+  "test_unit.py::test_deposit_invalid",
+  "test_unit.py::test_deposit_valid",
+  "test_unit.py::test_loan_eligible",
+  "test_unit.py::test_loan_invalid_balance",
+  "test_unit.py::test_loan_not_eligible_low_balance",
+  "test_unit.py::test_loan_not_eligible_low_credit",
+  "test_unit.py::test_withdraw_boundary",
+  "test_unit.py::test_withdraw_insufficient_balance",
+  "test_unit.py::test_withdraw_invalid_amount",
+  "test_unit.py::test_withdraw_valid"
+]
